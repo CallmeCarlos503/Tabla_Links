@@ -64,8 +64,7 @@
                         
                         <?php
                         if (isset($_GET["numero"])) {
-                            # code...
-                       
+                            
                         $num2 = 1;
                         $Casillas2 = 1;
                         $Cantidades2 = 1;
